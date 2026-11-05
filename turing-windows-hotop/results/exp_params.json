@@ -1,0 +1,150 @@
+[
+  {
+    "a": 0.1,
+    "b": 0.9,
+    "Du": 1.0,
+    "Dv": 10.0,
+    "hom_stable": true,
+    "band": [
+      0.2,
+      0.5
+    ],
+    "n_min": {
+      "ring1": 9,
+      "ring2": 20,
+      "simpl": 30
+    },
+    "mismatches": 0,
+    "decisions": 594,
+    "n_range": [
+      3,
+      200
+    ]
+  },
+  {
+    "a": 0.1,
+    "b": 0.9,
+    "Du": 1.0,
+    "Dv": 5.0,
+    "hom_stable": true,
+    "band": null,
+    "n_min": {
+      "ring1": -1,
+      "ring2": -1,
+      "simpl": -1
+    },
+    "mismatches": 0,
+    "decisions": 594,
+    "n_range": [
+      3,
+      200
+    ]
+  },
+  {
+    "a": 0.1,
+    "b": 0.9,
+    "Du": 1.0,
+    "Dv": 20.0,
+    "hom_stable": true,
+    "band": [
+      0.07396013553019261,
+      0.6760398644698074
+    ],
+    "n_min": {
+      "ring1": 8,
+      "ring2": 17,
+      "simpl": 26
+    },
+    "mismatches": 0,
+    "decisions": 594,
+    "n_range": [
+      3,
+      200
+    ]
+  },
+  {
+    "a": 0.05,
+    "b": 1.0,
+    "Du": 1.0,
+    "Dv": 10.0,
+    "hom_stable": true,
+    "band": [
+      0.179168145059916,
+      0.6153437597019888
+    ],
+    "n_min": {
+      "ring1": 8,
+      "ring2": 18,
+      "simpl": 27
+    },
+    "mismatches": 0,
+    "decisions": 594,
+    "n_range": [
+      3,
+      200
+    ]
+  },
+  {
+    "a": 0.2,
+    "b": 0.8,
+    "Du": 1.0,
+    "Dv": 10.0,
+    "hom_stable": true,
+    "band": null,
+    "n_min": {
+      "ring1": -1,
+      "ring2": -1,
+      "simpl": -1
+    },
+    "mismatches": 0,
+    "decisions": 594,
+    "n_range": [
+      3,
+      200
+    ]
+  },
+  {
+    "a": 0.1,
+    "b": 0.9,
+    "Du": 0.5,
+    "Dv": 10.0,
+    "hom_stable": true,
+    "band": [
+      0.14792027106038522,
+      1.3520797289396147
+    ],
+    "n_min": {
+      "ring1": 6,
+      "ring2": 12,
+      "simpl": 18
+    },
+    "mismatches": 0,
+    "decisions": 594,
+    "n_range": [
+      3,
+      200
+    ]
+  },
+  {
+    "a": 0.1,
+    "b": 0.9,
+    "Du": 2.0,
+    "Dv": 20.0,
+    "hom_stable": true,
+    "band": [
+      0.1,
+      0.25
+    ],
+    "n_min": {
+      "ring1": 13,
+      "ring2": 28,
+      "simpl": 42
+    },
+    "mismatches": 0,
+    "decisions": 594,
+    "n_range": [
+      3,
+      200
+    ]
+  }
+]

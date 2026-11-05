@@ -1,0 +1,29 @@
+{
+  "ring1": {
+    "quad_coeff": 1.000088900582341,
+    "theta_lo": 0.45102681179626053,
+    "theta_hi": 0.7227342478134156,
+    "n_windows": 34,
+    "n_unstable_predicted": 288,
+    "mismatches": 0,
+    "coverage": 0.9664429530201343
+  },
+  "ring2": {
+    "quad_coeff": 5.000000413701855,
+    "theta_lo": 0.20115036270587938,
+    "theta_hi": 0.320881113411937,
+    "n_windows": 15,
+    "n_unstable_predicted": 273,
+    "mismatches": 0,
+    "coverage": 0.9161073825503355
+  },
+  "simpl": {
+    "quad_coeff": 11.000089727986051,
+    "theta_lo": 0.13516702107710934,
+    "theta_hi": 0.2145057196546238,
+    "n_windows": 10,
+    "n_unstable_predicted": 259,
+    "mismatches": 0,
+    "coverage": 0.8691275167785235
+  }
+}

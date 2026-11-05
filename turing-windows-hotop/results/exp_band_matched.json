@@ -1,0 +1,112 @@
+[
+  {
+    "q": 0.0,
+    "rho_mean": 0.05288579668750125,
+    "p_unstable_mean": 1.0,
+    "contrast_mean": 0.0,
+    "contrast_std": 0.0,
+    "contrast_max": 0.0,
+    "inside_frac": 1.0,
+    "n_seeds": 10,
+    "contrasts": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "q": 0.05,
+    "rho_mean": 0.05290405485768808,
+    "p_unstable_mean": 1.0,
+    "contrast_mean": 0.0,
+    "contrast_std": 0.0,
+    "contrast_max": 0.0,
+    "inside_frac": 1.0,
+    "n_seeds": 10,
+    "contrasts": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "q": 0.1,
+    "rho_mean": 0.053232757313736986,
+    "p_unstable_mean": 1.0,
+    "contrast_mean": 0.0,
+    "contrast_std": 0.0,
+    "contrast_max": 0.0,
+    "inside_frac": 1.0,
+    "n_seeds": 10,
+    "contrasts": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "q": 0.5,
+    "rho_mean": 0.058475087774143154,
+    "p_unstable_mean": 1.0,
+    "contrast_mean": 0.0,
+    "contrast_std": 0.0,
+    "contrast_max": 0.0,
+    "inside_frac": 1.0,
+    "n_seeds": 10,
+    "contrasts": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "q": 1.0,
+    "rho_mean": 0.06110610825621976,
+    "p_unstable_mean": 1.0,
+    "contrast_mean": 0.0,
+    "contrast_std": 0.0,
+    "contrast_max": 0.0,
+    "inside_frac": 1.0,
+    "n_seeds": 10,
+    "contrasts": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+]

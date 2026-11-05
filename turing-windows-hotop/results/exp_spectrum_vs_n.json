@@ -1,0 +1,407 @@
+[
+  {
+    "n": 20,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.38196601125010493,
+    "mu_star": 0.048266722073790014,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 20,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.47985297865979815,
+    "mu_star": 0.010272468742892116,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 20,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 3.996802888649809e-15,
+    "mu_star": -0.10000000000002199,
+    "n_unstable": 0,
+    "degeneracy": 1
+  },
+  {
+    "n": 30,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.38196601125010526,
+    "mu_star": 0.0482667220737909,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 30,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.21661388324718928,
+    "mu_star": 0.018102292678384924,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 30,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.476932565026758,
+    "mu_star": 0.011704228458077282,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 40,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.3819660112501054,
+    "mu_star": 0.0482667220737909,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 40,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.4798529786597969,
+    "mu_star": 0.010272468742892116,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 40,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.26964389124856203,
+    "mu_star": 0.049885123696321365,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 50,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.38196601125010393,
+    "mu_star": 0.04826672207379179,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 50,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.3102203176550112,
+    "mu_star": 0.05700499930581149,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 50,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.17297914759860789,
+    "mu_star": -0.04289770552069072,
+    "n_unstable": 0,
+    "degeneracy": 2
+  },
+  {
+    "n": 60,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.26794919243112303,
+    "mu_star": 0.04932381736629532,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 60,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.2166138832471868,
+    "mu_star": 0.018102292678383147,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 60,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.47693256502676135,
+    "mu_star": 0.011704228458074617,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 70,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.28310241279626763,
+    "mu_star": 0.05352312331828646,
+    "n_unstable": 6,
+    "degeneracy": 2
+  },
+  {
+    "n": 70,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.35517669140456204,
+    "mu_star": 0.05400974244868628,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 70,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.3514829858492708,
+    "mu_star": 0.05459429200559729,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 80,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.2947196712918158,
+    "mu_star": 0.05559407325407584,
+    "n_unstable": 8,
+    "degeneracy": 2
+  },
+  {
+    "n": 80,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.2732471108279104,
+    "mu_star": 0.05099918701123585,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 80,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.26964389124855637,
+    "mu_star": 0.04988512369631959,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 90,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.30390380768714825,
+    "mu_star": 0.056604742664426944,
+    "n_unstable": 8,
+    "degeneracy": 2
+  },
+  {
+    "n": 90,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.3813804158105105,
+    "mu_star": 0.048418522172914535,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 90,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.21334480379730564,
+    "mu_star": 0.014932736679460934,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 100,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.3113441489959706,
+    "mu_star": 0.05705228106038618,
+    "n_unstable": 8,
+    "degeneracy": 2
+  },
+  {
+    "n": 100,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.3102203176550078,
+    "mu_star": 0.057004999305812376,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 100,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.3871705520748607,
+    "mu_star": 0.04686982035630649,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 110,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.3174929343376378,
+    "mu_star": 0.05718805102931768,
+    "n_unstable": 10,
+    "degeneracy": 2
+  },
+  {
+    "n": 110,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.2571793087326159,
+    "mu_star": 0.0451649285844975,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 110,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.32049953035574225,
+    "mu_star": 0.057181009388030724,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 120,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.32265886410915157,
+    "mu_star": 0.057147154286748325,
+    "n_unstable": 10,
+    "degeneracy": 2
+  },
+  {
+    "n": 120,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.3360975398529863,
+    "mu_star": 0.05642277921927352,
+    "n_unstable": 6,
+    "degeneracy": 2
+  },
+  {
+    "n": 120,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.2696438912485614,
+    "mu_star": 0.04988512369632092,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 130,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.32705972397954636,
+    "mu_star": 0.05700562175939261,
+    "n_unstable": 10,
+    "degeneracy": 2
+  },
+  {
+    "n": 130,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.287204313841478,
+    "mu_star": 0.0543609564372467,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 130,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.40708064733241234,
+    "mu_star": 0.040778056878711944,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 140,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.33085349255739477,
+    "mu_star": 0.05680774358901264,
+    "n_unstable": 12,
+    "degeneracy": 2
+  },
+  {
+    "n": 140,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.3551766914045612,
+    "mu_star": 0.05400974244868717,
+    "n_unstable": 6,
+    "degeneracy": 2
+  },
+  {
+    "n": 140,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.35148298584927284,
+    "mu_star": 0.05459429200559729,
+    "n_unstable": 2,
+    "degeneracy": 2
+  },
+  {
+    "n": 150,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.33415751857980064,
+    "mu_star": 0.056579976186576175,
+    "n_unstable": 14,
+    "degeneracy": 2
+  },
+  {
+    "n": 150,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.31022031765501035,
+    "mu_star": 0.057004999305812376,
+    "n_unstable": 6,
+    "degeneracy": 2
+  },
+  {
+    "n": 150,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.30651829662704666,
+    "mu_star": 0.05679851924808421,
+    "n_unstable": 4,
+    "degeneracy": 2
+  },
+  {
+    "n": 160,
+    "kind": "ring1",
+    "sigma": 0.0,
+    "lambda_star": 0.33706077539490964,
+    "mu_star": 0.056338389224318774,
+    "n_unstable": 14,
+    "degeneracy": 2
+  },
+  {
+    "n": 160,
+    "kind": "ring2",
+    "sigma": 0.0,
+    "lambda_star": 0.36980919838452037,
+    "mu_star": 0.05118580781155124,
+    "n_unstable": 6,
+    "degeneracy": 2
+  },
+  {
+    "n": 160,
+    "kind": "simpl",
+    "sigma": 1.0,
+    "lambda_star": 0.26964389124855936,
+    "mu_star": 0.04988512369632003,
+    "n_unstable": 4,
+    "degeneracy": 2
+  }
+]
